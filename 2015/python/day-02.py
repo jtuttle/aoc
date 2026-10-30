@@ -1,6 +1,6 @@
 from functools import reduce
 
-with open("day-02.in") as file:
+with open("../input/day-02.in") as file:
     input = file.readlines()
 
 def paper_total(dimensions):

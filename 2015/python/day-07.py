@@ -1,7 +1,7 @@
-with open("day-07.in") as file:
+with open("../input/day-07.in") as file:
     input = file.readlines()
 
-with open("day-07.testin") as file:
+with open("../input/day-07.testin") as file:
     test_input = file.readlines()
 
 def build_circuit(instructions):

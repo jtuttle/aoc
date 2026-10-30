@@ -1,4 +1,4 @@
-with open("day-01.in") as file:
+with open("../input/day-01.in") as file:
     input = file.readline()
 
 def last_floor(directions):

@@ -1,7 +1,7 @@
 from collections import namedtuple
 #from typing import NamedTuple, Callable
 
-with open("day-06.in") as file:
+with open("../input/day-06.in") as file:
     input = file.readlines()
 
 class Grid:

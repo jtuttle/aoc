@@ -1,4 +1,4 @@
-with open("day-03.in") as file:
+with open("../input/day-03.in") as file:
     input = file.readline()
 
 def next_coord(coord, move):
